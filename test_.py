@@ -48,4 +48,4 @@ def test_():
     assert accuracy > 0.6
 
 
-test()
+test_()

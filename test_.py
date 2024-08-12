@@ -35,7 +35,7 @@ def load_estimator():
     return estimator
 
 
-def test():
+def test_():
 
     data, target = load_data()
     estimator = load_estimator()
